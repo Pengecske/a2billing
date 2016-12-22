@@ -18,66 +18,66 @@ msgstr ""
 
 #: lib/Class.Realtime.php:94
 msgid "Could not open buddy file"
-msgstr ""
+msgstr "Nem sikerült megnyitni a fájlt"
 
 #: lib/Class.Realtime.php:113
 msgid "Impossible to write to the file"
-msgstr ""
+msgstr "A fájl írása nem engedélyezett"
 
 #: lib/customer.smarty.php:100 lib/admin.smarty.php:65 lib/agent.smarty.php:66
 msgid "This option is not available on the Demo!"
-msgstr ""
+msgstr "Ez az opció nem áll rendelkezésre a Demo verzióban!"
 
 #: lib/support/classes/ticket.php:78 lib/support/classes/ticket.php:236
 msgid "(AGENT)"
-msgstr ""
+msgstr "(ÜGYNÖK)"
 
 #: lib/support/classes/ticket.php:216
 msgid "(ADMINISTRATOR) "
-msgstr ""
+msgstr "(ADMINISZTRÁTOR)"
 
 #: lib/support/classes/ticket.php:377 lib/interface/constants.php:350
 #: lib/interface/constants.php:408 lib/interface/constants.php:431
 #: Public/A2B_mass_mail.php:55 Public/A2B_data_archiving.php:87
 #: Public/A2B_data_archiving.php:95 Public/A2B_data_archiving.php:103
 msgid "NEW"
-msgstr ""
+msgstr "Új"
 
 #: lib/support/classes/ticket.php:380
 msgid "FIXED"
-msgstr ""
+msgstr "RÖGZÍTETT"
 
 #: lib/support/classes/ticket.php:383
 msgid "REOPEN"
-msgstr ""
+msgstr "ÚJRA MEGNYITÁS"
 
 #: lib/support/classes/ticket.php:386
 msgid "CLOSED"
-msgstr ""
+msgstr "ZÁRVA"
 
 #: lib/support/classes/ticket.php:389
 msgid "INVALID"
-msgstr ""
+msgstr "ÉRVÉNYTELEN"
 
 #: lib/admin.help.php:37
 msgid "For further information please consult"
-msgstr ""
+msgstr "További információért kérjük, forduljon"
 
 #: lib/admin.help.php:37
 msgid "the online documention"
-msgstr ""
+msgstr "Az online dokumentáció"
 
 #: lib/admin.help.php:59
 msgid "The Notification component is responsible for informing the Customer, via e-mail, that the account has reached a minimum credit."
-msgstr ""
+msgstr "Ez az értesítési komponens végzi az Ügyfél tájékoztatását, e-mailben, hogy a fiók elérte a minimális hitel összegét."
 
 #: lib/admin.help.php:61
 msgid "Notification: You can see below all notifications received about some event."
-msgstr ""
+msgstr "Bejelentés: Megtekinthetjük az összes beérkezett bejelentést vagy eseményt."
 
 #: lib/admin.help.php:63
 msgid "This page shows the series list."
-msgstr ""
+msgstr "Ez az oldal kilistázza a sorokat."
 
 #: lib/admin.help.php:63
 msgid "Series & serials is used for the creation of a card range specifically for accounting purposes instead of card id."
@@ -85,43 +85,43 @@ msgstr ""
 
 #: lib/admin.help.php:65
 msgid "This page shows a group list."
-msgstr ""
+msgstr "Ez az oldal megmutatja a csoport listát."
 
 #: lib/admin.help.php:65
 msgid "The Group field is used for grouping customers for quick search, batch update and reporting."
-msgstr ""
+msgstr "A Csoport mező csoportosítására alkalmasak az ügyfelek számára gyors keresés, batch frissítés és jelentéstétel."
 
 #: lib/admin.help.php:67
 msgid "Generate a specific crypted URL to configure signup with a customer group and call plan."
-msgstr ""
+msgstr "Létrehoz egy speciális titkosított URL beállítani feliratkozás egy vevői csoport és hívás tervet."
 
 #: lib/admin.help.php:69
 msgid "Customers are listed below by account number. Each row corresponds to one customer, along with information such as their call plan, credit remaining, etc.</br>"
-msgstr ""
+msgstr "Az ügyfelek szerint vannak felsorolva számlaszámát. Minden sor megfelel egy vásárló adataival együtt, mint például a hívás terv fennmaradó hitel, stb. </ Br>"
 
 #: lib/admin.help.php:69
 msgid "The SIP and IAX buttons create SIP and IAX entries to allow direct VoIP connections to the Asterisk server without further authentication."
-msgstr ""
+msgstr "A SIP és IAX gombok létrehozására SIP és IAX bejegyzéseket, hogy közvetlen VoIP kapcsolat a Asterisk szerver nélkül további hitelesítés."
 
 #: lib/admin.help.php:71
 msgid "Import Customers from a CSV file."
-msgstr ""
+msgstr "Ügyfelek importálása CSV-fájlból."
 
 #: lib/admin.help.php:73
 msgid "Customer information."
-msgstr ""
+msgstr "Ügyfél információ"
 
 #: lib/admin.help.php:75
 msgid "Top up the account by selecting or typing in the account number directly, and enter the amount of credit to apply, then click ADD to confirm."
-msgstr ""
+msgstr "Töltse fel a számla kiválasztásával vagy írja be a számla számát közvetlenül, és adja meg a hitel összegét amit alkalmazni szeretne, majd nyomja meg a Hozzáadás gombot."
 
 #: lib/admin.help.php:77
 msgid "Create and edit the properties of each customer. Click <b>CONFIRM DATA</b> at the bottom of the page to save changes."
-msgstr ""
+msgstr "Az Ügyfelek létrehozása vagy tulajdonságaik szerkesztéséhez. Kattintson a <b> MEGERŐSÍTÉS </b> az oldal alján a változások mentéséhez."
 
 #: lib/admin.help.php:79
 msgid "Bulk create customers in a single step. <br> Set the properties of the batch such as initial credit, account type and currency, then click on the GENERATE CUSTOMERS button to create the batch."
-msgstr ""
+msgstr "Tömeges ügyfelek létrehozásához egy lépésben. <br> állítsa be a tulajdonságokat a tétel, mint az első hitel, fiók típusát, és a pénznemet, majd kattintson az ÜGYFÉL LÉTREHOZÁS gombora."
 
 #: lib/admin.help.php:81
 msgid "SIP and IAX Config will create a SIP or IAX entry on the Asterisk server, so that a customer can set up a SIP or IAX client to connect directly to the asterisk server without the need to enter an account and pin each time a call is made. When done, click on the CONFIRM DATA button, then click reload to apply the changes on the Asterisk server.</br>"
@@ -129,23 +129,23 @@ msgstr ""
 
 #: lib/admin.help.php:82
 msgid "The customer must then enter the URL/IP address of the asterisk server into the SIP/IAX client, and use the Account Number and Secret word as the username and password."
-msgstr ""
+msgstr "Az ügyfélnek adja meg az URL/IP-címét a Asterisk szerver a SIP/IAX kliens, adja meg a felhasználónevét és jelszavát."
 
 #: lib/admin.help.php:84
 msgid "Click reload to commit changes to Asterisk"
-msgstr ""
+msgstr "Kattintson a módosítások újratöltéséhez Asterisk-ben"
 
 #: lib/admin.help.php:86
 msgid "Each SIP/IAX client is identified by a number of parameters.</br></br>"
-msgstr ""
+msgstr "Minden SIP/IAX kliens azonosító minden paraméter. </ Br> </ br>"
 
 #: lib/admin.help.php:87
 msgid "More details on how to configure clients are on the Wiki"
-msgstr ""
+msgstr "További részleteket, hogyan kell az ügyfeleket beállítani a Wiki-ben találja"
 
 #: lib/admin.help.php:90
 msgid "Set the caller ID so that the customer calling in is authenticated on the basis of the callerID rather than with the account number"
-msgstr ""
+msgstr "Állítsa be a hívó fél azonosítóját, így az Ügyfél hívásával hitelesíti, a callerID helyett a számlaszám"
 
 #: lib/admin.help.php:92
 msgid "This screen shows refills and payments made against each account, along with the current credit on each account. The initial amount of credit applied to the account is not included. The amount owing is calculated by subtracting payments from refills"
